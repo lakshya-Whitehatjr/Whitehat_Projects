@@ -1,0 +1,44 @@
+#Date {
+    font-family: monospace;
+    color: darkseagreen;
+}
+
+#topic {
+    font-family: cursive;
+    color: greenyellow;
+}
+
+body {
+    text-align: center;
+    background-color: #f0e8c5;
+    background-image: linear-gradient(lightblue, green);
+}
+
+.image1 {
+    height: 300px;
+    width: 300px;
+}
+
+.sec {
+    border: 1px blue;
+    float: left;
+    width: 50%;
+}
+
+.sec1 {
+    border: 1px blue;
+    float: right;
+    width: 50%;
+}
+
+#date {
+    font-family: sans-serif;
+    color: darkcyan;
+
+}
+
+.quotes {
+    font-family: monospace;
+    font-size: 10px;
+    background-color: whitesmoke
+}
